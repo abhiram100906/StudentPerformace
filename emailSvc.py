@@ -7,7 +7,7 @@ import email.encoders as Encoders
 import os
 
 USERNAME = "amdamdmandyam@gmail.com"
-PASSWORD = "mandyam2021"
+PASSWORD = "888"
 
 def sendMail(to, subject, text, files=[]):
     assert type(to)==list
